@@ -1,0 +1,22 @@
+{
+  "wheel_id": 887,
+  "structure": "umbrella",
+  "slug": "goldcoastretainingwall-122",
+  "project": "retaining-wall-gold-coast-common-mistakes-0b14f81813e7ab21ef629",
+  "parent_t1_ref": "goldcoastretainingwall-160",
+  "node_role": "feeder",
+  "money_target": "goldcoastretainingwall.net.au",
+  "primary_kw": "retaining wall gold coast common mistakes",
+  "intended_url": "https://sites-e470-2.web.app/retaining-wall-gold-coast-common-mistakes-0b14f81813e7ab21ef629/",
+  "tier": "T2",
+  "writeback_nonce": "1bf99d3f0a879c98",
+  "links": [
+    {
+      "target_url": "http://retaining-wall-gold-coast-0f153918c0bb8c994c25318f8e0be1a0e93dc.s3-website-ap-southeast-2.amazonaws.com/index.html",
+      "anchor": "the full guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "generic"
+    }
+  ]
+}
